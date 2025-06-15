@@ -201,7 +201,7 @@
     }
     .invitation {
       display: none;
-      background: url('images/bg-ucing.jpg') center/cover no-repeat;
+      background: url('bg-ucing.jpg') center/cover no-repeat;
       min-height: 100vh;
       padding: 100px 20px 40px;
       position: relative;
